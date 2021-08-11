@@ -1,0 +1,45 @@
+http://r.zipformplus.com/
+zipR2016! [For Popup]
+TMSBA/password
+MLS - 201503084
+
+Beta release:
+m.zipformonline.com
+
+DONTESTBA/password
+
+MLS ID- 201503084
+ARMLS Listing ID: 5412644
+
+Tavant WL
+senthilkumar.k, Login@123
+
+ 
+Area 	Developer for element	   
+		   
+Transaction Header -mcarroll@ziplogix.com	   
+DOC approval       -ishafikov@zipform.com	   
+Esign              -maxv@car.org 	   
+forms editor	   -sbailey@ziplogix.com 	   
+transaction list. Templates   -ccapusan@zipform.com 	   
+address book. User agent      -ccapusan@zipform.com 	   
+PDF generation 	              -mcarroll@ziplogix.com	   
+MLS Connect	              -mbellish@ziplogix.com 	   
+Login screens	              -mbellish@ziplogix.com 	 
+
+CAR User With FORMS TUTOR -- 196534872/password
+zipR logins: 
+Broker Admin: 200007149/200007149
+Office Admin: 200007149LA/password
+Office Admin: 200007149LO2/password
+Agent : 200007149Agent/password
+
+The rules for a Office Admin are:
+Office Admin cannot View BA TXNs
+Office Admin cannot Edit BA TXNs
+Office Admin cannot View another Office Admin TXNs
+Office Admin cannot Edit another Office Admin TXNs
+
+Beta testing : https://beta.zipformonline.com/#
+DONTESTBA/password
+
